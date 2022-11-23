@@ -7,3 +7,5 @@ Nama saga Faisal Akmal
 
 cara push github
 coba testing
+
+testing branch v.1.2
