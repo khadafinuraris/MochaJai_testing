@@ -9,3 +9,4 @@ cara push github
 coba testing
 
 german vs jepang
+testing branch v.1.2
