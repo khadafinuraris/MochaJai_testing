@@ -8,5 +8,10 @@ Nama saga Faisal Akmal
 cara push github
 coba testing
 
+<<<<<<< HEAD
 testing branch v.1.2
 haha
+=======
+german vs jepang
+testing branch v.1.2
+>>>>>>> 142917266554de13fa03e251b1737eb29eb317f9
